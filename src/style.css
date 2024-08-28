@@ -9,3 +9,11 @@
 .box {
   box-shadow: 0px 1px 8px 1px;
 }
+.figure {
+  position: relative;
+}
+.btn-red {
+  position: absolute;
+  top: -4px;
+  right: 0px;
+}
