@@ -5,9 +5,11 @@
 }
 .cards {
   margin: 15px 30px;
+  justify-content: space-between;
 }
 .box {
   box-shadow: 0px 1px 8px 1px;
+  width: 23%;
 }
 .figure {
   position: relative;
