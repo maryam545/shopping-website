@@ -30,6 +30,11 @@
   height: 35px;
   width: 35px;
 }
+.btn-success:hover {
+  width: 60px;
+  transition: all 0.4s ease-in-out;
+  border-radius: 40px;
+}
 .star {
   position: absolute;
   top: -2px;
