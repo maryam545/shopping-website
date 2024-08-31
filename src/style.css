@@ -17,3 +17,19 @@
   top: -4px;
   right: 0px;
 }
+.product-price {
+  justify-content: space-between;
+}
+.btn-success {
+  display: flex;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  height: 35px;
+  width: 35px;
+}
+.star {
+  position: absolute;
+  top: -2px;
+  left: 8px;
+}
