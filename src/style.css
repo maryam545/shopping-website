@@ -35,3 +35,10 @@
   top: -2px;
   left: 8px;
 }
+.title-main {
+  display: flex;
+  justify-content: end;
+}
+.title-h {
+  border-bottom: 1px solid darkred;
+}
